@@ -1,0 +1,8 @@
+Find the character which is mostly commonly used in a string
+Ex1:
+input: "aavbvsdcccccsdeeeeeee"
+output: "e"
+
+Ex2:
+input: "apple 11234222222"
+output: "2"

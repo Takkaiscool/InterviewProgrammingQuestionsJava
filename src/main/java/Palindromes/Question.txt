@@ -1,0 +1,9 @@
+Given a String find whether it is palindrome or not
+
+Ex1:
+input: malayalam
+output: Palindrome
+
+Ex2:
+input: Donald
+output: Not Palindrome

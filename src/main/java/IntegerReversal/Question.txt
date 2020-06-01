@@ -1,0 +1,8 @@
+Given a integer find the reverse of that number
+Ex1:
+input: 987
+output: 789
+
+Ex2:
+input: -78
+output: -87
