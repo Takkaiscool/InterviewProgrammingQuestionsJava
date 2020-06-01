@@ -1,0 +1,9 @@
+Given a number from 1 to N if number is divisible by 3 then print Fizz or if Number is divisible by 5 print Buzz
+
+Ex1:
+input: 10
+output: Fizz
+        Buzz
+        Fizz
+        Fizz
+        Buzz
