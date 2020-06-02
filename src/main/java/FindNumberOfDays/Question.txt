@@ -1,0 +1,13 @@
+Given an integer n(in seconds).Convert it into years, days, hours, minutes and seconds.
+
+Note: Consider 365 days as 1 year.
+
+Examples:
+
+n=6462051
+
+Output: '74 days, 19 hours and 51 seconds'
+
+n=646205100
+
+Output: '20 years, 179 days, 5 hours and 25 minutes'
